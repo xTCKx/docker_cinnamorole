@@ -24,4 +24,4 @@ This role requires the following collections:
 
 ## License
 
-GPL-3.0
+GPL-3.0 [LICENSE](LICENSE)
